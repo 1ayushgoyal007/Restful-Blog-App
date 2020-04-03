@@ -1,0 +1,27 @@
+{
+  "name": "restful-blog-app",
+  "version": "1.0.0",
+  "description": "A Blog App Using Restful Routes.And Restful Routes make it easy to for other Developers to Understand The routes and Program.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ayushgoyal007/Restful-Blog-App.git"
+  },
+  "author": "Ayush Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ayushgoyal007/Restful-Blog-App/issues"
+  },
+  "homepage": "https://github.com/1ayushgoyal007/Restful-Blog-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.9.7"
+  }
+}
