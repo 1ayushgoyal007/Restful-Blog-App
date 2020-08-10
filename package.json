@@ -4,7 +4,8 @@
   "description": "A Blog App Using Restful Routes.And Restful Routes make it easy to for other Developers to Understand The routes and Program.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
   },
   "repository": {
     "type": "git",
